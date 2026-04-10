@@ -5,7 +5,7 @@
 
 # Entropy Detonator: Heuristic Ransomware Interceptor
 
-## What is it?
+## Overview
 Entropy Detonator is a Proof-of-Concept (PoC) security tool that stops zero-day ransomware in real-time. Instead of relying on known malware signatures, it uses **Shannon Entropy** to detect the mathematical randomness caused by unauthorized file encryption, killing the malicious process before data is lost.
 
 ## Why Behavior Over Signatures?
