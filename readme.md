@@ -1,3 +1,8 @@
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Category](https://img.shields.io/badge/domain-Cybersecurity-red)
+![Heuristic](https://img.shields.io/badge/detection-Shannon%20Entropy-orange)
+
 # Entropy Detonator: Heuristic Ransomware Interceptor
 
 ## Overview
