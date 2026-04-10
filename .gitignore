@@ -1,0 +1,10 @@
+# Ignore the virtual environment
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore the dummy directory so you don't upload test files
+target_directory/
