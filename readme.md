@@ -15,7 +15,7 @@ The system calculates the entropy of a file by analyzing its byte frequency dist
 
 $$H(X) = - \sum_{i=1}^{n} P(x_i) \log_2 P(x_i)$$
 
-Where \P(x_i)` is the probability of a specific byte appearing in the data stream.`
+Where `P(x_i)` is the probability of a specific byte appearing in the data stream.
 
 * **Standard Files (Low/Medium Entropy):** Plaintext, standard documents, and system logs contain repeating patterns. They typically yield an entropy score between 3.0 and 5.0 out of 8.0.
 * **Encrypted Files (High Entropy):** Cryptographically scrambled data forces an equal probability distribution across all byte values, pushing the entropy score to its mathematical maximum (near 8.0).
